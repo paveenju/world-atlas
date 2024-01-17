@@ -1,2 +1,2 @@
 # world-atlas
-World Atlas
+This repository represents countries and their cities.
